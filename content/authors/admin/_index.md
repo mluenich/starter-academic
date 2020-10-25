@@ -29,7 +29,7 @@ education:
     institution: University of Amsterdam (NL)
     year: 2012-2014
   - course: BA in Communication Science
-    institution: University of Erfurt
+    institution: University of Erfurt (DE)
     year: 2008-2011
 
 # Social/Academic Networking
