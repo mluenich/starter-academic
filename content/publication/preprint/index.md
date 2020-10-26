@@ -33,13 +33,13 @@ links:
 - name: arXiv-Link
   url: https://arxiv.org/abs/2006.07211v1
 url_pdf: https://arxiv.org/pdf/2006.07211
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
