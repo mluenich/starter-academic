@@ -16,7 +16,7 @@ organizations:
 bio: My research interests include the public perception of digital media, big data, and artificial intelligence.
 
 interests:
-- Social Science1
+- Social Science
 - Digital Media
 - Survey Research
 
@@ -49,6 +49,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mluenich
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Marco_Luenich
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0553-7291
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
