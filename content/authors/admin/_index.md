@@ -16,9 +16,10 @@ organizations:
 bio: My research interests include the public perception of digital media, big data, and artificial intelligence.
 
 interests:
-- Social Science
 - Digital Media
+- Public perceptions of Big Data & Artificial Intelligence
 - Survey Research
+- Structural Equation Modelling
 
 education:
   courses:
