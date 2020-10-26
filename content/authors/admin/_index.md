@@ -74,6 +74,6 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a Postdoc at Heinrich Heine University gadgadsgf
-dsfasdf
-asdfasfd
+I am a Postdoc at Heinrich Heine University in Düsseldorf, Germany.
+
+My PhD focused on the German public'S perceptions and expectations concerning Big Data.
