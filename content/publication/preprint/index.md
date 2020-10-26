@@ -30,7 +30,7 @@ tags:
 featured: false
 
 links:
-- name: arXiv-Link
+- name: arXiv
   url: https://arxiv.org/abs/2006.07211v1
 url_pdf: https://arxiv.org/pdf/2006.07211
 #url_code: '#'
