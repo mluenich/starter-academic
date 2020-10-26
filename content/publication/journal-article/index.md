@@ -2,9 +2,9 @@
 title: "Double Crisis: Sport Mega Events and the Future of Public Service Broadcasting."
 authors:
 - admin
-- Starke, Christopher
-- Marcinkowski, Frank
-- Dosenovic, Pero
+- Christopher Starke
+- Frank Marcinkowski
+- Pero Dosenovic
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
