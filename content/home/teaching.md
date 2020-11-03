@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Teaching Experience"
@@ -52,4 +52,4 @@ subtitle = ""
 
 # 2020
 
-[see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)
+- Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)
