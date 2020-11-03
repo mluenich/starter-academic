@@ -50,9 +50,12 @@ subtitle = ""
  css_class = ""
 +++
 
-## Winter Term 20/21
+## Winter Term 2020/2021
 
 - Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)</p>
-- Lehrforschungsprojekt <br> <p style="color:grey">Teaching Research Project</p>
+- Lehrforschungsprojekt 3<br> <p style="color:grey">Teaching Research Project 3</p>
 
 ## Previous Teaching
+
+- Lehrforschungsprojekt 2 (WS 19/20)<br> <p style="color:grey">Teaching Research Project 2 (winter term '19/20)</p>
+- Lehrforschungsprojekt 1 (WS 18/19)<br> <p style="color:grey">Teaching Research Project 2 (winter term '18/19)</p>
