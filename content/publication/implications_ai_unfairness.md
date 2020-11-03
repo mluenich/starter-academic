@@ -1,5 +1,5 @@
 ---
-title: "The Threats of Artificial Intelligence Scale (TAI). Development, Measurement and Test Over Three Application Domains"
+title: "Implications of AI (un-)fairness in higher education admissions: the effects of perceived AI (un-)fairness on exit, voice and organizational reputation"
 authors:
 - Frank Marcinkowski
 - Kimon Kieslich
