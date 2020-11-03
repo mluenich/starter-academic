@@ -34,7 +34,7 @@ featured: false
 
 # links:
 # - name: ""
-url: 'https://www.beck-shop.de/hautzer-luenich-roessler-social-navigation/product/11612910'
+url: 'www.beck-shop.de/hautzer-luenich-roessler-social-navigation/product/11612910'
 #url_pdf:
 #url_code: ''
 #url_dataset: ''
