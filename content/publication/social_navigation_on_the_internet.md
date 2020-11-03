@@ -30,8 +30,8 @@ tags:
 featured: false
 
 links:
-#- name: DOI
-#  url: 'https://doi.org/10.1080/15228835.2012.744244'
+- name: DOI
+  url: 'https://doi.org/10.1080/15228835.2012.744244'
 #url_pdf: 'https://arxiv.org/pdf/2006.07211''
 #url_code: ''
 #url_dataset: ''

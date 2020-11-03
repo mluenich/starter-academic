@@ -32,9 +32,9 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-- name: "URL"
-url: 'www.beck-shop.de/hautzer-luenich-roessler-social-navigation/product/11612910'
+links:
+- name: URL
+  url: 'www.beck-shop.de/hautzer-luenich-roessler-social-navigation/product/11612910'
 #url_pdf:
 #url_code: ''
 #url_dataset: ''
