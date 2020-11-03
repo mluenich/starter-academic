@@ -17,7 +17,7 @@ header:
 <p><strong>Allgemeiner Hinweis und Pflichtinformationen</strong></p>
 <p><strong>Benennung der verantwortlichen Stelle</strong></p>
 <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
-<p><span id="s3-t-firma">Name der Firma</span><br><span id="s3-t-ansprechpartner">Marco Lünich</span><br><span id="s3-t-strasse">Ulenbergstr. 127</span><br><span id="s3-t-plz">40225</span> <span id="s3-t-ort">Düsseldorf</span></p><p></p>
+<p><span id="s3-t-firma"> </span><br><span id="s3-t-ansprechpartner">Marco Lünich</span><br><span id="s3-t-strasse">Ulenbergstr. 127</span><br><span id="s3-t-plz">40225</span> <span id="s3-t-ort">Düsseldorf</span></p><p></p>
 <p>Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).</p>
 
 <p><strong>Widerruf Ihrer Einwilligung zur Datenverarbeitung</strong></p>
