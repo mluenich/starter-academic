@@ -4,7 +4,7 @@ authors:
 - admin
 - Patrick Rössler
 - Lena Hautzer
-date: "2012-04-01T00:00:00Z"
+date: "2012-12-06T00:00:00Z"
 doi: "10.1080/15228835.2012.744244"
 
 # Schedule page publish date (NOT publication's date).
