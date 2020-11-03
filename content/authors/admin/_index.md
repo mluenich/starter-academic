@@ -9,7 +9,7 @@ role: Social Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Social Sciences<br>Heinrich Heine University Düsseldorf, Germany
+- name: Heinrich Heine University Düsseldorf, Germany
   url: "https://www.phil-fak.uni-duesseldorf.de/kmw/professur-i-prof-dr-frank-marcinkowski/team/marco-luenich/"
 
 # Short bio (displayed in user profile at end of posts)
