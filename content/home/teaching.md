@@ -57,5 +57,8 @@ subtitle = ""
 
 ## Previous Teaching
 
-- Lehrforschungsprojekt 2 (WS 19/20)<br> <p style="color:grey">Teaching Research Project 2 (winter term '19/20)</p>
-- Lehrforschungsprojekt 1 (WS 18/19)<br> <p style="color:grey">Teaching Research Project 2 (winter term '18/19)</p>
+- Lehrforschungsprojekt 2 (WS 19/20)<br> <p style="color:grey">Teaching Research Project 2 (in German, winter term '19/20)</p>
+- The Consequences of Digitalization for the Individual and Society: Theories and Empirical Evidences (in English, summer term 2019)
+- Lehrforschungsprojekt 1 (WS 18/19)<br> <p style="color:grey">Teaching Research Project 2 (in German, winter term '18/19)</p>
+- Theorien und empirische Evidenzen zu den Folgen der Digitalisierung (SoSe 18) <br> <p style="color:grey">The Consequences of Digitalization for the Individual and Society: Theories and Empirical Evidences (in German, summer Term 2018)</p>
+- Kann Privatheit in der digitalen Welt noch existieren? Theorien und Befunde zur Mediennutzung zwischen individueller Selbstoptimierung und gesellschaftlicher Überwachung (WS 17/18) <br> <p style="color:grey">Can privacy still exist in the digital world? Theories and findings on media use between individual self-optimization and societal surveillance (winter term 17/18)</p>
