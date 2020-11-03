@@ -35,9 +35,9 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-url: ''
-#url_pdf: 'https://diid.hhu.de/wp-content/uploads/2019/10/DIID-Precis_Kieslich-et-al_Fin.pdf'
+# - name: "DIID-Précis"
+#url: ''
+url_pdf: 'https://diid.hhu.de/wp-content/uploads/2019/10/DIID-Precis_Kieslich-et-al_Fin.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
