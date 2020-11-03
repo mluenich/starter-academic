@@ -23,7 +23,7 @@ publication_types: ["5"]
 publication: ""
 publication_short: ""
 
-abstract: "Social Navigation“, die Orientierung der eigenen Mediennutzung am Verhalten Anderer und das Hinterlassen eigener Nutzungsinformationen, ist eines der aktuellen Phänomene im Internet. Auf Grundlage etablierter Ansätze der Kommunikationswissenschaft legt diese Studie eine umfassende theoretische Modellierung des Kommunikationsprozesses via „Social Navigation“ auf Mikro-, Meso- und Makroebene vor. Ausgewählte Aspekte wurden außerdem anhand eines Mehrmethodendesigns (Befragung und Inhaltsanalyse) in mehreren Piloterhebungen empirisch vertieft."
+abstract: "'Social Navigation', die Orientierung der eigenen Mediennutzung am Verhalten Anderer und das Hinterlassen eigener Nutzungsinformationen, ist eines der aktuellen Phänomene im Internet. Auf Grundlage etablierter Ansätze der Kommunikationswissenschaft legt diese Studie eine umfassende theoretische Modellierung des Kommunikationsprozesses via „Social Navigation“ auf Mikro-, Meso- und Makroebene vor. Ausgewählte Aspekte wurden außerdem anhand eines Mehrmethodendesigns (Befragung und Inhaltsanalyse) in mehreren Piloterhebungen empirisch vertieft."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
