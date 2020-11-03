@@ -33,9 +33,9 @@ tags:
 - Source Themes
 featured: false
 
-# links:
-# - name: ""
-url: 'doi.org/10.1177/2167479519859208'
+links:
+- name: "DOI"
+  url: 'doi.org/10.1177/2167479519859208'
 #url_pdf:
 #url_code: ''
 #url_dataset: ''
