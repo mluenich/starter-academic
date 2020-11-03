@@ -3,7 +3,7 @@ title: "Artificial Intelligence for EU Decision-Making. Effects on Citizens  Per
 authors:
 - Christopher Starke
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2020-03-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
