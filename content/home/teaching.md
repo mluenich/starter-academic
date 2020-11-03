@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+#  gradient_start = "DarkGreen"
+#  gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -53,3 +53,4 @@ subtitle = ""
 # 2020
 
 - Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)
+- Lehrforschungsprojekt <br> Teaching Research Project
