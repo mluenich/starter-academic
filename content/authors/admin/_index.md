@@ -78,6 +78,6 @@ highlight_name: false
 #- Visitors
 ---
 
-I am a Postdoc at Heinrich Heine University in Düsseldorf, Germany.
+I am a Postdoc in communication research at Heinrich Heine University in Düsseldorf, Germany.
 
 My PhD focused on the German public's perceptions and expectations concerning Big Data.
