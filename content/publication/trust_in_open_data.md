@@ -29,8 +29,8 @@ tags:
 featured: false
 
 links:
-- name: DOI
-  url: https://doi.org/10.1177%2F1461444820979708
+#- name: DOI
+#  url: https://doi.org/10.1177%2F1461444820979708
 url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/1461444820979708
 #url_code: '#'
 #url_dataset: '#'
