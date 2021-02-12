@@ -81,10 +81,10 @@ highlight_name: false
 As of 2021, I am a Postdoc in communication research at [Heinrich Heine University in Düsseldorf](https:://www.hhu.de), in Germany.
 
 My professional work focuses on the connections between data and society. 
-This ranges from work that theorizes and analyzes the meaning of data in social situations as to how we communicate about it in our everyday life ([see here for my publications](https://marcoluenich.com/#publications)). 
+This ranges from work that theorizes and analyzes the meaning of data in social situations, as to how we communicate about and negotiate with data in our everyday life ([see here for my publications](https://marcoluenich.com/#publications)). 
 In my analysis, as a [trained empirical researcher](https://www.phil-fak.uni-duesseldorf.de/kmw/professur-i-prof-dr-frank-marcinkowski/team/marco-luenich/), I also collect data and employ methods of [statistical data analysis](https://bookdown.org/luenich/Latente_Variablen/).
-I explicitly reflect and appreciate the challenges that this poses to my scientific self&ndash;every day.
+I explicitly reflect and appreciate the challenges that this poses to my scientific self&ndash;not all the time, but every day.
 
-The work with [my colleagues](https://www.phil-fak.uni-duesseldorf.de/kmw/professur-i-prof-dr-frank-marcinkowski/) brings me utmost joy and the urgency to make most of every day, as these are numbered (I, too, do count).
+The work with [my colleagues](https://www.phil-fak.uni-duesseldorf.de/kmw/professur-i-prof-dr-frank-marcinkowski/) brings me utmost joy and the urgency to make most of our days, as these are numbered (I, too, do count).
 
-My PhD focused on the German public's perceptions and expectations concerning Big Data and more information will follow soon.
+My PhD focused on the German public's perceptions and expectations concerning Big Data, more information will follow soon...
