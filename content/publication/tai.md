@@ -30,8 +30,6 @@ tags:
 featured: false
 
 links:
-- name: DOI
-  url: https://doi.org/10.1007/s12369-020-00734-w
 - name: PDF
   url: https://link.springer.com/content/pdf/10.1007/s12369-020-00734-w.pdf
 - name: arXiv (Pre-print)
