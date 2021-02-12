@@ -4,7 +4,7 @@ authors:
 - Christopher Starke
 - admin
 date: "2020-11-27T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1017/dap.2020.19"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -29,8 +29,6 @@ tags:
 featured: false
 
 links:
-- name: DOI
-  url: https://doi.org/10.1017/dap.2020.19
 - name: arXiv (Pre-Print)
   url: https://arxiv.org/abs/2003.11320
 url_pdf: https://arxiv.org/pdf/2003.11320
