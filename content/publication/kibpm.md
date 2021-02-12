@@ -31,7 +31,7 @@ featured: false
 links:
 - name: DOI
   url: https://doi.org/10.1017/dap.2020.19
-- name: arXiv
+- name: arXiv (Pre-Print)
   url: https://arxiv.org/abs/2003.11320
 url_pdf: https://arxiv.org/pdf/2003.11320
 #url_code: '#'
