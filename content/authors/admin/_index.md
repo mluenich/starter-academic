@@ -23,6 +23,9 @@ interests:
 
 education:
   courses:
+  - course: Post-Doc
+    institution: Heinrich-Heine-Universität Düsseldorf (DE)
+    year: 2020-now
   - course: PhD in Communication Science
     institution: WWU Münster (DE)
     year: 2014-2020
@@ -85,6 +88,6 @@ This ranges from work that theorizes and analyzes the meaning of data in social 
 <br>In my analysis, as a [trained empirical researcher](https://www.phil-fak.uni-duesseldorf.de/kmw/professur-i-prof-dr-frank-marcinkowski/team/marco-luenich/), I also collect data and employ methods of [statistical data analysis](https://bookdown.org/luenich/Latente_Variablen/).
 I explicitly reflect and appreciate the challenges that this poses to my scientific self&ndash;all the time.
 
-The work with [my colleagues](https://www.phil-fak.uni-duesseldorf.de/kmw/professur-i-prof-dr-frank-marcinkowski/) brings me utmost joy and the urgency to make most of our days, as these are numbered (I, too, do count).
+The work with [my colleagues](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i) brings me utmost joy and the urgency to make most of our days, as these are numbered (I, too, do count).
 
 My PhD focused on the German public's perceptions and expectations concerning Big Data, more information will follow soon...
