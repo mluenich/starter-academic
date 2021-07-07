@@ -50,13 +50,14 @@ subtitle = ""
  css_class = ""
 +++
 
-## Winter Term 2020/2021
+## Summer Term 2021
 
-- Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)</p>
-- Lehrforschungsprojekt 3<br> <p style="color:grey">Teaching Research Project 3</p>
+- Myths of the Digital Society (in English)
 
 ## Previous Teaching
 
+- Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)</p>
+- Lehrforschungsprojekt 3 (WS 20/21)<br> <p style="color:grey">Teaching Research Project 3 (in German, winter term '20/21)</p>
 - Lehrforschungsprojekt 2 (WS 19/20)<br> <p style="color:grey">Teaching Research Project 2 (in German, winter term '19/20)</p>
 - The Consequences of Digitalization for the Individual and Society: Theories and Empirical Evidences (in English, summer term 2019)
 - Lehrforschungsprojekt 1 (WS 18/19)<br> <p style="color:grey">Teaching Research Project 2 (in German, winter term '18/19)</p>
