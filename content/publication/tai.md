@@ -5,7 +5,7 @@ authors:
 - admin
 - Frank Marcinkowski
 date: "2021-02-12T00:00:00Z"
-doi: "https://doi.org/10.1007/s12369-020-00734-w"
+doi: "10.1007/s12369-020-00734-w"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-29T00:00:00Z"

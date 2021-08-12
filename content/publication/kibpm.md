@@ -4,7 +4,7 @@ authors:
 - Christopher Starke
 - admin
 date: "2020-11-27T00:00:00Z"
-doi: "https://doi.org/10.1017/dap.2020.19"
+doi: "doi.org/10.1017/dap.2020.19"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
