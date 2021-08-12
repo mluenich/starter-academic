@@ -33,7 +33,7 @@ featured: false
 links:
 - name: ACM Database
   url: https://dl.acm.org/doi/10.1145/3351095.3372867
-url_pdf: https://dl.acm.org/doi/pdf/10.1145/3351095.3372867
+url_pdf: http://dd4p.gesis.org/wp-content/uploads/2021/02/ai-unfairness-1.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
