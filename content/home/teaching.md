@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Winter Term 2021/2022
 
-- Lehrforschungsprojekt 4 - "Die Leistungsvorhersage für Studierende durch Künstliche Intelligenz: Welche Wahrnehmung und Einstellungen haben die Betroffenen?" (WS 20/21)<br> <p style="color:grey">Teaching Research Project 4 - "Predicting student performance through artificial intelligence: what are the perceptions and attitudes of the affected students?" (in German, winter term '20/21)</p>
+- Lehrforschungsprojekt 4 - "Die Leistungsvorhersage für Studierende durch Künstliche Intelligenz: Welche Wahrnehmung und Einstellungen haben die Betroffenen?"<br> <p style="color:grey">Teaching Research Project 4 - "Predicting student performance through artificial intelligence: what are the perceptions and attitudes of the affected students?" (in German)</p>
 - Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)</p>
 
 ## Previous Teaching
