@@ -50,16 +50,18 @@ subtitle = ""
  css_class = ""
 +++
 
-## Summer Term 2021
+## Winter Term 2021/2022
 
-- Myths of the Digital Society (in English)
+- Lehrforschungsprojekt 4 - "Die Leistungsvorhersage für Studierende durch Künstliche Intelligenz: Welche Wahrnehmung und Einstellungen haben die Betroffenen?" (WS 20/21)<br> <p style="color:grey">Teaching Research Project 4 - "Predicting student performance through artificial intelligence: what are the perceptions and attitudes of the affected students?" (in German, winter term '20/21)</p>
+- Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)</p>
 
 ## Previous Teaching
 
+- Myths of the Digital Society (in English, summer term 2021)
 - Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)</p>
 - Lehrforschungsprojekt 3 (WS 20/21)<br> <p style="color:grey">Teaching Research Project 3 (in German, winter term '20/21)</p>
 - Lehrforschungsprojekt 2 (WS 19/20)<br> <p style="color:grey">Teaching Research Project 2 (in German, winter term '19/20)</p>
 - The Consequences of Digitalization for the Individual and Society: Theories and Empirical Evidences (in English, summer term 2019)
-- Lehrforschungsprojekt 1 (WS 18/19)<br> <p style="color:grey">Teaching Research Project 2 (in German, winter term '18/19)</p>
+- Lehrforschungsprojekt 1 (WS 18/19)<br> <p style="color:grey">Teaching Research Project 1 (in German, winter term '18/19)</p>
 - Theorien und empirische Evidenzen zu den Folgen der Digitalisierung (SoSe 18) <br> <p style="color:grey">The Consequences of Digitalization for the Individual and Society: Theories and Empirical Evidences (in German, summer Term 2018)</p>
 - Kann Privatheit in der digitalen Welt noch existieren? Theorien und Befunde zur Mediennutzung zwischen individueller Selbstoptimierung und gesellschaftlicher Überwachung (WS 17/18) <br> <p style="color:grey">Can privacy still exist in the digital world? Theories and findings on media use between individual self-optimization and societal surveillance (winter term 17/18)</p>
