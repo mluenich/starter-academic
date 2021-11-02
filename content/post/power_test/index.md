@@ -1,5 +1,5 @@
 ---
-title: Power Test Tutorial for Testing Mean Differences of Latent Factors in Two Groups
+title: [Tutorial] Power Test: Estimating Sample Size for Testing Mean Differences of Latent Factors
 author: Marco Lünich
 date: '2021-11-02'
 slug: power-test
