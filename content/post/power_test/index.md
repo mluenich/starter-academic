@@ -14,4 +14,4 @@ In the [coursebook of my Master seminar concerning *Latent Variables in Politica
 
 The chapter can be accessed via the following link: [https://bookdown.org/luenich/Latente_Variablen/power-test-for-mean-differences-between-two-samples.html](https://bookdown.org/luenich/Latente_Variablen/power-test-for-mean-differences-between-two-samples.html)
 
-Please note that while the chapter on sample size estimation is in English the rest of the coursebook is in German.
+Please note: While the chapter on sample size estimation is in English, the rest of the coursebook is in German.
