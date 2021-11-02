@@ -1,5 +1,5 @@
 ---
-title: Power Test Tutorial: Estimating Sample Size for Testing Mean Differences of Latent Factors Using R
+title: Power Test Tutorial - Estimating Sample Size for Testing Mean Differences of Latent Factors Using R
 author: Marco Lünich
 date: '2021-11-02'
 slug: power-test
