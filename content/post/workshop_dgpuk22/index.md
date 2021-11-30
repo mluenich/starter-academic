@@ -1,5 +1,5 @@
 ---
-title: [German] Workshop "KI in der politischen Kommunikationsforschung: Theoretische Perspektiven und empirische Fragen"
+title: "[German] Workshop 'KI in der politischen Kommunikationsforschung: Theoretische Perspektiven und empirische Fragen'"
 author: Marco Lünich
 date: '2021-11-12'
 slug: workshop-dgpuk22
