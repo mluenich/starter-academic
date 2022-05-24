@@ -81,11 +81,11 @@ highlight_name: false
 #- Visitors
 ---
 
-As of 2021, I am a Postdoc in communication research at [Heinrich Heine University in Düsseldorf](https://www.hhu.de), in Germany.
+As of 2022, I am a Postdoc in communication research at [Heinrich Heine University in Düsseldorf](https://www.hhu.de), in Germany.
 
 My professional work focuses on the connections between data and society. 
 This ranges from work that theorizes and analyzes the meaning of data in social situations, as to how we communicate about and negotiate with data in our everyday life ([see here for my publications](https://marcoluenich.com/#publications)). 
-<br>In my analysis, as a [trained empirical researcher](https://www.phil-fak.uni-duesseldorf.de/kmw/professur-i-prof-dr-frank-marcinkowski/team/marco-luenich/), I also collect data and employ methods of [statistical data analysis](https://bookdown.org/luenich/Latente_Variablen/).
+<br>In my analysis, as a [trained empirical researcher](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich), I also collect data and employ methods of [statistical data analysis](https://bookdown.org/luenich/Latente_Variablen/).
 I explicitly reflect and appreciate the challenges that this poses to my scientific self.
 
 The work with [my colleagues](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i) brings me utmost joy and the urgency to make most of our days.
