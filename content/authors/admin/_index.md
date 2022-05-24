@@ -90,4 +90,4 @@ I explicitly reflect and appreciate the challenges that this poses to my scienti
 
 The work with [my colleagues](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i) brings me utmost joy and the urgency to make most of our days.
 
-My PhD focused on the German public's perceptions and expectations concerning Big Data, more information will follow soon...
+My PhD focused on the German public's perceptions and expectations concerning Big Data and the monography published in January 2022 via Springer VS is [available online as open-access](https://link.springer.com/book/10.1007/978-3-658-36368-0).
