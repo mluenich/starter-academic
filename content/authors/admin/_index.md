@@ -81,7 +81,7 @@ highlight_name: false
 #- Visitors
 ---
 
-As of 2022, I am a Postdoc in communication research at [Heinrich Heine University in Düsseldorf](https://www.hhu.de), in Germany.
+As of 2022, I am a Postdoc in communication research at [Heinrich Heine University in Düsseldorf](https://www.hhu.de) in Germany.
 
 My professional work focuses on the connections between data and society. 
 This ranges from work that theorizes and analyzes the meaning of data in social situations, as to how we communicate about and negotiate with data in our everyday life ([see here for my publications](https://marcoluenich.com/#publications)). 
