@@ -29,11 +29,11 @@ tags:
 featured: false
 
 links:
-url_pdf: https://link.springer.com/content/pdf/10.1007/s00146-022-01412-3.pdf
 - name: arXiv (Pre-Print)
   url: https://arxiv.org/abs/2107.08946
 - name: OSF
   url: https://osf.io/xhvwr
+url_pdf: https://link.springer.com/content/pdf/10.1007/s00146-022-01412-3.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
