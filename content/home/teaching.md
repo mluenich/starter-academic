@@ -50,15 +50,16 @@ subtitle = ""
  css_class = ""
 +++
 
-## Winter Term 2021/2022
+## Summer Term 2022
 
-- Lehrforschungsprojekt 4 - "Die Leistungsvorhersage für Studierende durch Künstliche Intelligenz: Welche Wahrnehmung und Einstellungen haben die Betroffenen?"<br> <p style="color:grey">Teaching Research Project 4 - "Predicting student performance through artificial intelligence: what are the perceptions and attitudes of the affected students?" (in German)</p>
-- Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)</p>
+- Artificial Intelligence and Society: Public Communication and the Common Good (in English)
 
 ## Previous Teaching
 
+- Lehrforschungsprojekt 4 - "Die Leistungsvorhersage für Studierende durch Künstliche Intelligenz: Welche Wahrnehmung und Einstellungen haben die Betroffenen?"<br> <p style="color:grey">Teaching Research Project 4 - "Predicting student performance through artificial intelligence: what are the perceptions and attitudes of the affected students?" (in German, winter term '21/22)</p>
+- Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/)</p> (in German, winter term '21/22)
 - Myths of the Digital Society (in English, summer term 2021)
-- Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication</p>
+- Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication</p> (in German, winter term '20/21)
 - Lehrforschungsprojekt 3 (WS 20/21)<br> <p style="color:grey">Teaching Research Project 3 (in German, winter term '20/21)</p>
 - Lehrforschungsprojekt 2 (WS 19/20)<br> <p style="color:grey">Teaching Research Project 2 (in German, winter term '19/20)</p>
 - The Consequences of Digitalization for the Individual and Society: Theories and Empirical Evidences (in English, summer term 2019)
