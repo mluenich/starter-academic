@@ -31,7 +31,9 @@ featured: false
 links:
 - name: arXiv (Pre-Print)
   url: https://arxiv.org/abs/2003.11320
-url_pdf: https://arxiv.org/pdf/2003.11320
+- name: DOI
+  url: 'https://doi.org/10.1057/s41269-017-0048-y'
+#url_pdf: https://arxiv.org/pdf/2003.11320
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
