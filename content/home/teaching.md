@@ -50,12 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
-## Summer Term 2022
+## Winter Term 2022/2023
 
-- Artificial Intelligence and Society: Public Communication and the Common Good (in English)
+- Predicting academic performance through Artificial Intelligence: Students’ perceptions and attitudes concerning technology use for the common good? (in English)
 
 ## Previous Teaching
 
+- Artificial Intelligence and Society: Public Communication and the Common Good (in English, summer term 2022)
 - Lehrforschungsprojekt 4 - "Die Leistungsvorhersage für Studierende durch Künstliche Intelligenz: Welche Wahrnehmung und Einstellungen haben die Betroffenen?"<br> <p style="color:grey">Teaching Research Project 4 - "Predicting student performance through artificial intelligence: what are the perceptions and attitudes of the affected students?" (in German, winter term '21/22)</p>
 - Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/) (in German, winter term '21/22)</p> 
 - Myths of the Digital Society (in English, summer term 2021)
