@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Winter Term 2022/2023
 
-- Predicting academic performance through Artificial Intelligence: Students’ perceptions and attitudes concerning technology use for the common good? (in English)
+- Predicting academic performance through Artificial Intelligence: Students’ perceptions and attitudes concerning technology use for the Common Good? (in English)
 
 ## Previous Teaching
 

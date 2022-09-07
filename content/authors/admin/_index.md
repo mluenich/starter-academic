@@ -10,7 +10,7 @@ role: Social Scientist
 # Organizations/Affiliations
 organizations:
 - name: Heinrich Heine University Düsseldorf, Germany
-  url: "https://www.phil-fak.uni-duesseldorf.de/kmw/professur-i-prof-dr-frank-marcinkowski/team/marco-luenich/"
+  url: "https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the public perception of digital media, big data, and artificial intelligence.
