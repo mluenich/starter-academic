@@ -13,12 +13,12 @@ organizations:
   url: "https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the public perception of digital media, big data, and artificial intelligence.
+bio: My research interests include the public perception of Digital Media, Big Data, and Artificial Intelligence.
 
 interests:
 - Digital Media
 - Public perceptions of Big Data & Artificial Intelligence
-- Survey Research
+- Survey Research, Experimental Designs, Content Analysis
 - Structural Equation Modelling
 
 education:
