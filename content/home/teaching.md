@@ -50,12 +50,15 @@ subtitle = ""
  css_class = ""
 +++
 
-## Winter Term 2022/2023
+## Summer Term 2023
 
-- Predicting academic performance through Artificial Intelligence: Students’ perceptions and attitudes concerning technology use for the Common Good? (in English)
+- Lehrforschungsprojekt 5 - "Die studentische Wahrnehmung neuer Medientechnologien im Bildungssektor"<br> <p style="color:grey">Teaching Research Project 5 - "The student perception of new media technologies in the education sector."</p>
+- Vorlesung "Politische Kommunikationsforschung - Theorien und empirische Befunde" <br> <p style="color:grey">Lecture "Political Communication Research - Theories and Empirical Evidence"</p>
+
 
 ## Previous Teaching
 
+- Predicting academic performance through Artificial Intelligence: Students’ perceptions and attitudes concerning technology use for the Common Good? (in English, winter term 2022/2023)
 - Artificial Intelligence and Society: Public Communication and the Common Good (in English, summer term 2022)
 - Lehrforschungsprojekt 4 - "Die Leistungsvorhersage für Studierende durch Künstliche Intelligenz: Welche Wahrnehmung und Einstellungen haben die Betroffenen?"<br> <p style="color:grey">Teaching Research Project 4 - "Predicting student performance through artificial intelligence: what are the perceptions and attitudes of the affected students?" (in German, winter term '21/22)</p>
 - Vertrauen, Legitimität, Fairness & Co.: Die Messung latenter Variablen in der politischen Kommunikation <br> <p style="color:grey">Trust, legitimacy, fairness & Co.: The measurement of latent variables in political communication <br> [see course manual (in German)](https://bookdown.org/luenich/Latente_Variablen/) (in German, winter term '21/22)</p> 
