@@ -80,7 +80,7 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
-Hi!
+Hi!<br>
 I am Marco, a social scientist specializing in the analysis of data and society, with a focus on human-computer interaction, digital communication, media usage, and the social implications of artificial intelligence.
 
 As of 2024, I am a substitute professor of communication and media science at [Heinrich Heine University in Düsseldorf](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-iii) in Germany.
