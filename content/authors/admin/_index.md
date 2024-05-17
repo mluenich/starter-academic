@@ -80,14 +80,16 @@ highlight_name: false
 #- Researchers
 #- Visitors
 ---
+Hi!
+I am Marco, a social scientist specializing in the analysis of data and society, with a focus on human-computer interaction, digital communication, media usage, and the social implications of artificial intelligence.
 
 As of 2024, I am a substitute professor of communication and media science at [Heinrich Heine University in Düsseldorf](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-iii) in Germany.
 
-My professional work focuses on the connections between data and society. 
-This ranges from work that theorizes and analyzes the meaning of data in social situations, as to how we communicate about and negotiate with data in our everyday life ([see here for my publications](https://marcoluenich.com/#publications)). 
+My academic research ranges from work that theorizes and analyzes the meaning of data in social situations, to how we communicate about and negotiate with data and computers in our everyday life, to how we perceive of the societal use of technology ([see here for my publications](https://marcoluenich.com/#publications)). 
 <br>In my analysis, as a [trained empirical researcher](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich), I also collect data and employ methods of [statistical data analysis](https://bookdown.org/luenich/Latente_Variablen/).
 I explicitly reflect and appreciate the challenges that this poses to my scientific self.
 
-The work with [my colleagues](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i) brings me utmost joy and the urgency to make most of our days.
-
+I received my PhD from the University of Münster, in Germany.
 My PhD focused on the German public's perceptions and expectations concerning Big Data and the monograph was  published in German in January 2022 via Springer VS is [available online as an open-access book](https://link.springer.com/book/10.1007/978-3-658-36368-0).
+
+Get to know [my colleagues](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i) with whom it is a great pleasure to collaborate.
