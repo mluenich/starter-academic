@@ -1,5 +1,5 @@
 ---
-title: "Explainable Artificial Intelligence for Academic Performance Prediction. An Experimental Study on the Impact of Accuracy and Simplicity of Decision Trees on Causability and Fairness Perceptions"
+title: "Regulating AI-Based Remote Biometric Identification. Investigating the Public Demand for Bans, Audits, and Public Database Registrations"
 authors:
 - Kimon Kieslich
 - admin
