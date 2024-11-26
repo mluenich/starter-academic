@@ -44,9 +44,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:marco.luenich@hhu.de  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/MLuenich
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/MLuenich
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=bJOuk5YAAAAJ&hl=de
