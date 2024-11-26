@@ -83,7 +83,7 @@ highlight_name: false
 Hi!<br>
 I am Marco, a social scientist specializing in the analysis of data and society, with a focus on human-computer interaction, digital communication, media usage, and the social implications of artificial intelligence.
 
-As of 2024, I am a substitute professor of communication and media science at [Heinrich Heine University in Düsseldorf](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-iii) in Germany.
+Currently, I am a post-doctoral researcher in communication and media science at [Heinrich Heine University in Düsseldorf](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich) in Germany.
 
 My academic research ranges from work that theorizes and analyzes the meaning of data in social situations, to how we communicate about and negotiate with data and computers in our everyday life, to how we perceive of the societal use of technology ([see here for my publications](https://marcoluenich.com/#publications)). 
 <br>In my analysis, as a [trained empirical researcher](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/kmw-i/marco-luenich), I also collect data and employ methods of [statistical data analysis](https://bookdown.org/luenich/Latente_Variablen/).
